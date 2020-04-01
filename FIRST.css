@@ -1,0 +1,66 @@
+body{
+    background-color: cyan;
+    background-image: url(maxresdefault.jpg);
+}
+h1{
+    color:blue;
+}
+.name{
+    font-family: Verdana;
+}
+.classes{
+    border-style: dotted;
+
+}
+
+#persona{
+    font-style: italic;
+    font-family: "Garamond", "Century Gothic", serif;
+}
+.moovies{
+text-decoration: underline;
+border-style: double;
+}
+.other{
+    border-style: groove;
+}
+
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+
+p{
+    font-style: italic;
+    color: blue;
+}
+p:first-letter {    
+    color: #ff0000;    
+    font-size: xx-large;
+}
+a:link { color: #FF0000; } 
+a:visited { color: #00FF00; } 
+a:hover { color: #FF00FF; } 
+a:focus { color: #FFFFFF; } 
+th {    
+    text-align: center;
+    background-color:#00FF00
+  }
+  td {    
+    text-align: right;
+    background-color:yellow
+  }
+  
+  tr:hover {  
+    background-color: #FFFFFF
+  }
+
+ol{
+    list-style-type:lower-roman
+}
+ul{
+    list-style-type: upper-alpha;
+}
+  

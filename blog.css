@@ -1,0 +1,68 @@
+div.name{
+    text-align: right;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+}
+div.sidebar{
+    background-color: gray;
+    width: 20%; height: 20%; float: left; fontsize: x-large;
+    overflow: visible;
+}
+h2{
+    color: green;
+    font-style: italic;
+}
+.image{
+    width: 100px;
+    float: right;
+    
+}
+#saladimg{
+    width: 100px;
+    float: right;
+}
+h2.Salad{
+    color: red;
+}
+
+div.burger {
+    background-color: pink;
+    border-style: double;
+    overflow: hidden;
+    margin: 0.5em;
+
+}
+
+#music_display {
+    border-style: double;
+    background-color: pink;
+    margin: 0.5em ;
+    overflow: hidden;
+
+}
+
+div.Salad{
+    background-color: rgb(13, 231, 13);
+    border-style: dotted;
+    overflow: hidden;
+    margin: 0.5em;
+
+}
+div.Election{
+    background-color: pink;
+    border-style: double;
+    margin: 0.5em;
+    overflow: hidden;
+
+}
+#footer{
+   position: absolute;
+   background-color: gray;
+   left: zero;
+   bottom: zero;
+   text-align: center;
+   width: 100%;
+   
+}
